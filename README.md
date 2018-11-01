@@ -6,7 +6,7 @@ Simple File Uploader
 * Install and initialize virtualenv: https://virtualenv.pypa.io/en/stable/installation/
 
 * Activate virtualenv with command
-`source bin/acttivate`
+`source bin/activate`
     
 * Pull code
 `git clone git@github.com:hritik09/simple-file-uploader.git`
